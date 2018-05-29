@@ -1,4 +1,4 @@
-docker-nginx
+docker-nginx-alpine
 ============
 
 A high-performance Nginx base image for Docker to serve static websites. It will serve anything in the `/var/www` directory.
